@@ -1,0 +1,2 @@
+armr5-none-eabi-ar qc libavbuf.a CMakeFiles/avbuf.dir/xavbuf.c.obj CMakeFiles/avbuf.dir/xavbuf_clk.c.obj CMakeFiles/avbuf.dir/xavbuf_videoformats.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/armr5/lin/gcc-arm-none-eabi/bin/armr5-none-eabi-ranlib libavbuf.a

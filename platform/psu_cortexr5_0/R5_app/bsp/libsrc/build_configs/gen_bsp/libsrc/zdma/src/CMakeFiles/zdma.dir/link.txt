@@ -1,0 +1,2 @@
+armr5-none-eabi-ar qc libzdma.a CMakeFiles/zdma.dir/xzdma_intr.c.obj CMakeFiles/zdma.dir/xzdma_sinit.c.obj CMakeFiles/zdma.dir/xzdma_selftest.c.obj CMakeFiles/zdma.dir/xzdma.c.obj CMakeFiles/zdma.dir/xzdma_g.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/armr5/lin/gcc-arm-none-eabi/bin/armr5-none-eabi-ranlib libzdma.a

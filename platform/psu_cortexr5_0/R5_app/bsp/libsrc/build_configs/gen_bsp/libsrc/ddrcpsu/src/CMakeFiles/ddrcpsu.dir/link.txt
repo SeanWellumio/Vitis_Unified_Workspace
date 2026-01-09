@@ -1,0 +1,2 @@
+armr5-none-eabi-ar qc libddrcpsu.a CMakeFiles/ddrcpsu.dir/xddrcpsu.c.obj CMakeFiles/ddrcpsu.dir/xddrcpsu_sinit.c.obj CMakeFiles/ddrcpsu.dir/xddrcpsu_g.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/armr5/lin/gcc-arm-none-eabi/bin/armr5-none-eabi-ranlib libddrcpsu.a

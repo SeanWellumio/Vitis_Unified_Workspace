@@ -1,0 +1,2 @@
+armr5-none-eabi-ar qc libsdps.a CMakeFiles/sdps.dir/xsdps_host.c.obj CMakeFiles/sdps.dir/xsdps_options.c.obj CMakeFiles/sdps.dir/xsdps_card.c.obj CMakeFiles/sdps.dir/xsdps_sinit.c.obj CMakeFiles/sdps.dir/xsdps.c.obj CMakeFiles/sdps.dir/xsdps_g.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/armr5/lin/gcc-arm-none-eabi/bin/armr5-none-eabi-ranlib libsdps.a

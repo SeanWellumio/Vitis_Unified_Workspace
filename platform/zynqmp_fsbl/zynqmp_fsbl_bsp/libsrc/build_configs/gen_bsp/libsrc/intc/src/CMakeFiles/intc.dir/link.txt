@@ -1,0 +1,2 @@
+aarch64-none-elf-ar qc libintc.a CMakeFiles/intc.dir/xintc.c.obj CMakeFiles/intc.dir/xintc_g.c.obj CMakeFiles/intc.dir/xintc_intr.c.obj CMakeFiles/intc.dir/xintc_l.c.obj CMakeFiles/intc.dir/xintc_options.c.obj CMakeFiles/intc.dir/xintc_selftest.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-ranlib libintc.a

@@ -1,0 +1,2 @@
+mb-ar qc libdpdma.a CMakeFiles/dpdma.dir/xdpdma.c.obj CMakeFiles/dpdma.dir/xdpdma_g.c.obj CMakeFiles/dpdma.dir/xdpdma_sinit.c.obj CMakeFiles/dpdma.dir/xdpdma_intr.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/microblaze/lin/bin/mb-ranlib libdpdma.a

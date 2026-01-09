@@ -1,0 +1,2 @@
+aarch64-none-elf-ar qc libiic.a CMakeFiles/iic.dir/xiic.c.obj CMakeFiles/iic.dir/xiic_dyn_master.c.obj CMakeFiles/iic.dir/xiic_g.c.obj CMakeFiles/iic.dir/xiic_intr.c.obj CMakeFiles/iic.dir/xiic_l.c.obj CMakeFiles/iic.dir/xiic_master.c.obj CMakeFiles/iic.dir/xiic_multi_master.c.obj CMakeFiles/iic.dir/xiic_options.c.obj CMakeFiles/iic.dir/xiic_selftest.c.obj CMakeFiles/iic.dir/xiic_sinit.c.obj CMakeFiles/iic.dir/xiic_slave.c.obj CMakeFiles/iic.dir/xiic_stats.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-ranlib libiic.a

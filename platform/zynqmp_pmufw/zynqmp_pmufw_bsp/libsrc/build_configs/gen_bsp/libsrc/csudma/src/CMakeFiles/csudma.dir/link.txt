@@ -1,0 +1,2 @@
+mb-ar qc libcsudma.a CMakeFiles/csudma.dir/xcsudma.c.obj CMakeFiles/csudma.dir/xcsudma_sinit.c.obj CMakeFiles/csudma.dir/xcsudma_selftest.c.obj CMakeFiles/csudma.dir/xcsudma_g.c.obj CMakeFiles/csudma.dir/xcsudma_intr.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/microblaze/lin/bin/mb-ranlib libcsudma.a

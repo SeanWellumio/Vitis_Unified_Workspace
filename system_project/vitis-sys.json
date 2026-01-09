@@ -1,0 +1,24 @@
+{
+  "modelVersion": "1.0",
+  "projectName": "system_project",
+  "platform": "/projects/Vitis_Unified_Workspace/platform/export/platform/platform.xpfm",
+  "externalComponentRefs": [
+    "A53_app",
+    "R5_app"
+  ],
+  "components": [],
+  "buildConfigurations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "supportedTargets": [
+        "HW_EMU",
+        "HW"
+      ]
+    }
+  ],
+  "activeBuildConfigId": "default",
+  "hostMode": "x86",
+  "isDirty": true,
+  "applicationFlow": "EMBEDDED"
+}

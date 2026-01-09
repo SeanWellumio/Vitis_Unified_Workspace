@@ -1,0 +1,2 @@
+armr5-none-eabi-ar qc libcsudma.a CMakeFiles/csudma.dir/xcsudma.c.obj CMakeFiles/csudma.dir/xcsudma_sinit.c.obj CMakeFiles/csudma.dir/xcsudma_selftest.c.obj CMakeFiles/csudma.dir/xcsudma_g.c.obj CMakeFiles/csudma.dir/xcsudma_intr.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/armr5/lin/gcc-arm-none-eabi/bin/armr5-none-eabi-ranlib libcsudma.a

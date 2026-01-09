@@ -1,0 +1,3 @@
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/build/CMakeFiles/fsbl.elf.dir
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/build/CMakeFiles/edit_cache.dir
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/build/CMakeFiles/rebuild_cache.dir

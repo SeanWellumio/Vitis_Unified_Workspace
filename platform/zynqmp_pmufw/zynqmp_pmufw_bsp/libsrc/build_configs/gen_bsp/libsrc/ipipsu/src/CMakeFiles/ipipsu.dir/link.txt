@@ -1,0 +1,2 @@
+mb-ar qc libipipsu.a CMakeFiles/ipipsu.dir/xipipsu_g.c.obj CMakeFiles/ipipsu.dir/xipipsu_sinit.c.obj CMakeFiles/ipipsu.dir/xipipsu.c.obj CMakeFiles/ipipsu.dir/xipipsu_buf.c.obj CMakeFiles/ipipsu.dir/xipipsu_helper.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/microblaze/lin/bin/mb-ranlib libipipsu.a

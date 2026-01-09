@@ -1,0 +1,2 @@
+aarch64-none-elf-ar qc libxiltimer.a CMakeFiles/xiltimer.dir/core/default_timer/globaltimer_sleep.c.obj CMakeFiles/xiltimer.dir/core/ttcps/ttcps.c.obj CMakeFiles/xiltimer.dir/xiltimer.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-ranlib libxiltimer.a

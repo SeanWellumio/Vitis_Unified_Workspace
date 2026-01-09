@@ -1,0 +1,2 @@
+mb-ar qc libaxipmon.a CMakeFiles/axipmon.dir/xaxipmon.c.obj CMakeFiles/axipmon.dir/xaxipmon_g.c.obj CMakeFiles/axipmon.dir/xaxipmon_selftest.c.obj CMakeFiles/axipmon.dir/xaxipmon_sinit.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/microblaze/lin/bin/mb-ranlib libaxipmon.a

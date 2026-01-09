@@ -1,0 +1,15 @@
+{
+  "name": "R5_app",
+  "type": "HOST",
+  "platform": "/projects/Vitis_Unified_Workspace/platform/export/platform/platform.xpfm",
+  "domain": "r5_app",
+  "cpuInstance": "psu_cortexr5_0",
+  "cpuType": "cortex-r5",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "R5_app",
+  "applicationFlow": "EMBEDDED"
+}

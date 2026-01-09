@@ -1,0 +1,2 @@
+armr5-none-eabi-ar qc libxiltimer.a CMakeFiles/xiltimer.dir/core/ttcps/ttcps.c.obj CMakeFiles/xiltimer.dir/xiltimer.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/armr5/lin/gcc-arm-none-eabi/bin/armr5-none-eabi-ranlib libxiltimer.a

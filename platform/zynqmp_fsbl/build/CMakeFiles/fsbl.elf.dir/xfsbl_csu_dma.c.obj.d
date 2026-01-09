@@ -1,0 +1,16 @@
+CMakeFiles/fsbl.elf.dir/xfsbl_csu_dma.c.obj: \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_csu_dma.c \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_csu_dma.h \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_hw.h \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_config.h \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_debug.h \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_error.h \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_hooks.h \
+ /projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_misc.h
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_csu_dma.h:
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_hw.h:
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_config.h:
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_debug.h:
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_error.h:
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_hooks.h:
+/projects/Vitis_Unified_Workspace/platform/zynqmp_fsbl/xfsbl_misc.h:

@@ -1,0 +1,2 @@
+mb-ar qc libcanps.a CMakeFiles/canps.dir/xcanps.c.obj CMakeFiles/canps.dir/xcanps_selftest.c.obj CMakeFiles/canps.dir/xcanps_hw.c.obj CMakeFiles/canps.dir/xcanps_intr.c.obj CMakeFiles/canps.dir/xcanps_g.c.obj CMakeFiles/canps.dir/xcanps_sinit.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/microblaze/lin/bin/mb-ranlib libcanps.a

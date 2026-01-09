@@ -1,0 +1,2 @@
+mb-ar qc libgpiops.a CMakeFiles/gpiops.dir/xgpiops_g.c.obj CMakeFiles/gpiops.dir/xgpiops_selftest.c.obj CMakeFiles/gpiops.dir/xgpiops.c.obj CMakeFiles/gpiops.dir/xgpiops_hw.c.obj CMakeFiles/gpiops.dir/xgpiops_sinit.c.obj CMakeFiles/gpiops.dir/xgpiops_intr.c.obj
+/tools/Xilinx/2024.1/Vitis/2024.1/gnu/microblaze/lin/bin/mb-ranlib libgpiops.a

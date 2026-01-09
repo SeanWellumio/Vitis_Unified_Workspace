@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/include/xparameters.h
+
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/asm_vectors.S
+
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/boot.S
+xparameters.h
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/xparameters.h
+bspconfig.h
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/bspconfig.h
+
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/cpu_init.S
+
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/xil-crt0.S
+xparameters.h
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/xparameters.h
+bspconfig.h
+/projects/Vitis_Unified_Workspace/platform/psu_cortexr5_0/R5_app/bsp/libsrc/standalone/src/arm/cortexr5/gcc/bspconfig.h
+
+include/bspconfig.h
+xmem_config.h
+include/xmem_config.h
+xparameters_ps.h
+include/xparameters_ps.h
+
+include/xmem_config.h
+
+include/xparameters_ps.h
+
