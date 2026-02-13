@@ -408,11 +408,28 @@ int main(void)
 
             else if (ipi_buffer.cmd == 4){
                 if (test_seq == 0){
-                    echos = 600;
-                    scans_target = 16*7;
+                    
+                    uint32_t rxdata[3];
+
+                    size_t n = ipi_buffer.len / 4;
+
+                    for (size_t i = 0; i < n; i++) {
+                        size_t j = 4 * i;
+                        rxdata[i] =  (uint32_t)ipi_buffer.payload[j]
+                                | ((uint32_t)ipi_buffer.payload[j + 1] << 8)
+                                | ((uint32_t)ipi_buffer.payload[j + 2] << 16)
+                                | ((uint32_t)ipi_buffer.payload[j + 3] << 24);
+                    }
+
+                    echos = rxdata[0];
+                    scans_target = rxdata[1];
                     scans = 0;
-                    t_end = 30000;
+                    t_end = rxdata[2];
+
                     xil_printf("Sample test sequence\r\n");
+                    xil_printf("echoes: %d\r\n", echos);
+                    xil_printf("scans:  %d\r\n", scans_target);
+                    xil_printf("t_end:  %d\r\n", t_end);
                     test_seq = 1;
                 }
             }

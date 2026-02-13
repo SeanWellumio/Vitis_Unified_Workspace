@@ -4,7 +4,7 @@
 		compatible = "simple-bus";
 		#address-cells = <2>;
 		#size-cells = <2>;
-		firmware-name = "chimera_main_1_wrapper.bit.bin";
+		firmware-name = ".bin";
 		axi_intc_0: axi_intc@a0020000 {
 			#interrupt-cells = <2>;
 			interrupts = < 0 89 4 >;
@@ -221,6 +221,33 @@
 			xlnx,name = "axi_gpio_sample";
 			xlnx,all-inputs = <0>;
 		};
+		axi_gpio_scan_count: axi_gpio@a0070000 {
+			xlnx,gpio-board-interface = "Custom";
+			compatible = "xlnx,axi-gpio-2.0" , "xlnx,xps-gpio-1.00.a";
+			xlnx,all-outputs = <0>;
+			#gpio-cells = <2>;
+			xlnx,gpio-width = <16>;
+			xlnx,rable = <0>;
+			xlnx,dout-default = <0x00000000>;
+			xlnx,is-dual = <0>;
+			xlnx,ip-name = "axi_gpio";
+			xlnx,tri-default-2 = <0xFFFFFFFF>;
+			reg = <0x0 0xa0070000 0x0 0x10000>;
+			xlnx,all-inputs-2 = <0>;
+			clocks = <&zynqmp_clk 71>;
+			xlnx,all-outputs-2 = <0>;
+			gpio-controller;
+			xlnx,interrupt-present = <0>;
+			xlnx,gpio2-board-interface = "Custom";
+			xlnx,edk-iptype = "PERIPHERAL";
+			xlnx,dout-default-2 = <0x00000000>;
+			xlnx,gpio2-width = <32>;
+			status = "okay";
+			clock-names = "s_axi_aclk";
+			xlnx,tri-default = <0xFFFFFFFF>;
+			xlnx,name = "axi_gpio_scan_count";
+			xlnx,all-inputs = <1>;
+		};
 		axi_gpio_tui_trigger: axi_gpio@a0040000 {
 			xlnx,gpio-board-interface = "Custom";
 			compatible = "xlnx,axi-gpio-2.0" , "xlnx,xps-gpio-1.00.a";
@@ -235,13 +262,13 @@
 			reg = <0x0 0xa0040000 0x0 0x10000>;
 			xlnx,all-inputs-2 = <0>;
 			clocks = <&zynqmp_clk 71>;
-			xlnx,all-outputs-2 = <1>;
+			xlnx,all-outputs-2 = <0>;
 			gpio-controller;
 			xlnx,interrupt-present = <0>;
 			xlnx,gpio2-board-interface = "Custom";
 			xlnx,edk-iptype = "PERIPHERAL";
 			xlnx,dout-default-2 = <0x00000000>;
-			xlnx,gpio2-width = <1>;
+			xlnx,gpio2-width = <32>;
 			status = "okay";
 			clock-names = "s_axi_aclk";
 			xlnx,use-board-flow;

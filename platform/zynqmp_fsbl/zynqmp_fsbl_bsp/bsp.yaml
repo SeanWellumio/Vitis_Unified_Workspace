@@ -194,6 +194,10 @@ drv_info:
     driver: gpio
     ip_name: axi_gpio
     path: /tools/Xilinx/2024.1/Vitis/2024.1/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_11
+  axi_gpio_scan_count:
+    driver: gpio
+    ip_name: axi_gpio
+    path: /tools/Xilinx/2024.1/Vitis/2024.1/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_11
   axi_gpio_tui_trigger:
     driver: gpio
     ip_name: axi_gpio

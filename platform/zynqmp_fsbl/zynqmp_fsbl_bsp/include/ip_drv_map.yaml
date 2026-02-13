@@ -10,6 +10,9 @@ axi_gpio_dds_chan:
 axi_gpio_sample:
 - axi_gpio
 - gpio
+axi_gpio_scan_count:
+- axi_gpio
+- gpio
 axi_gpio_tui_trigger:
 - axi_gpio
 - gpio
